@@ -1,4 +1,4 @@
-# ✂️ Squire Barber Shop Data Scraper (UK)
+# Squire Barber Shop Data Scraper (UK)
 
 ###  Project Overview
 
